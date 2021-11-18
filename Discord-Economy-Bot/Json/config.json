@@ -1,0 +1,7 @@
+{
+    "token": "PUT YOUR BOT TOKEN HERE",
+    "console": "PUT YOUR CONSOLE ID HERE",
+    "API_URL": "http://150.117.110.118:1015/",
+    "API_URL_SPARE": "http://150.117.110.118:1015/",
+    "API_KEY": "PUT YOUR API KEY HERE"
+}
